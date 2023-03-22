@@ -1,0 +1,1 @@
+#nesta pasta deve guardar apenas programas de computador gerados em um editor de linguage ( ex: java, sql ...)
